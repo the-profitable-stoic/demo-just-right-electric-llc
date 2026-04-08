@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Just Right Electric LLC",
+    "phone": "+16149027605",
+    "category": "electrical contractor",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Columbus's Trusted Electrical Experts",
+      "heroSubline": "Powering homes and businesses across Central Ohio with reliable and safe electrical solutions. Get a free quote today!",
+      "aboutTitle": "Your Local Electrical Partner",
+      "aboutText": [
+        "Just Right Electric LLC was founded over a decade ago right here in Columbus. We saw a need for honest, dependable electrical services delivered with integrity and a focus on customer satisfaction. From our humble beginnings, we've grown into a trusted name in the community.",
+        "We're not just electricians, we're problem solvers. We approach every project, big or small, with meticulous attention to detail and a commitment to doing the job right the first time. Our team is dedicated to providing transparent communication and exceeding your expectations.",
+        "Columbus is our home, and we're invested in its success. We actively support local initiatives and believe in giving back to the community that has supported us. When you choose Just Right Electric, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Decades of combined experience ensure your project is handled with expertise and care."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed quotes before any work begins."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. We're available around the clock to handle urgent situations."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Your peace of mind is our priority. We're fully licensed and insured for your protection."
+        }
+      ],
+      "ctaHeadline": "Ready to Get Started?",
+      "ctaSubline": "Contact Just Right Electric today for a free consultation and experience the difference."
+    },
+    "services": [
+      {
+        "slug": "residential-electrical-services",
+        "name": "Residential Electrical Services",
+        "shortDescription": "Safe and reliable electrical solutions for your Columbus home.",
+        "description": "From wiring upgrades in historic German Village homes to installing new lighting fixtures in Short North condos, Just Right Electric provides comprehensive residential electrical services throughout Columbus. We understand the unique electrical needs of older homes, particularly those built in the 1920s-40s, which often require knob-and-tube wiring replacement or electrical panel upgrades to meet modern demands. Our services also include new construction wiring, outlet and switch installation, ceiling fan installation, and troubleshooting electrical issues. We are experienced in addressing the challenges of Columbus's climate, ensuring proper grounding to protect against spring thunderstorms and installing surge protection to safeguard your valuable electronics. We also handle electrical repairs caused by winter freeze-thaw cycles and ice damming on roofs. We ensure all work meets or exceeds current electrical codes, providing you with a safe and functional electrical system for years to come. We are also skilled in installing smart home devices and electric vehicle chargers.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your electrical needs.",
+          "Step 2: Receive a detailed, transparent quote with no hidden fees.",
+          "Step 3: Our licensed electricians complete the work efficiently and safely.",
+          "Step 4: We conduct a thorough inspection to ensure your satisfaction."
+        ],
+        "benefits": [
+          "Improved safety and reliability",
+          "Increased home value",
+          "Enhanced energy efficiency",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my electrical panel inspected?",
+            "answer": "It's recommended to have your electrical panel inspected every 3-5 years, especially in older homes, to identify potential hazards and ensure it's functioning properly."
+          },
+          {
+            "question": "What are the signs that I need to upgrade my wiring?",
+            "answer": "Common signs include flickering lights, frequently tripped breakers, and warm outlets. If you notice any of these, contact us for an inspection."
+          },
+          {
+            "question": "Do you offer emergency electrical services?",
+            "answer": "Yes, we provide 24/7 emergency electrical services throughout Columbus. Call us anytime for urgent electrical issues."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical-services",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Keeping your Columbus business powered and productive.",
+        "description": "Just Right Electric provides a full range of commercial electrical services to businesses throughout Columbus, from small retail shops in the Short North to large office buildings downtown. We understand the importance of minimizing downtime and ensuring a safe and reliable electrical system for your business. Our services include electrical system design and installation, lighting upgrades, energy-efficient solutions, data cabling, and emergency power systems. We also offer comprehensive electrical maintenance programs to prevent costly repairs and ensure your business operates smoothly. We are experienced in working with local businesses to meet their specific electrical needs, whether it's installing new outlets for a growing office or upgrading the lighting in a retail space. We understand the importance of code compliance and safety, and our team is dedicated to providing high-quality workmanship and reliable service. We also offer services such as electrical inspections, code violation corrections, and surge protection for your valuable equipment.",
+        "process": [
+          "Step 1: Schedule a consultation to assess your commercial electrical needs.",
+          "Step 2: We develop a customized solution that meets your budget and timeline.",
+          "Step 3: Our experienced electricians complete the work with minimal disruption to your business.",
+          "Step 4: We provide ongoing maintenance and support to ensure your electrical system operates efficiently."
+        ],
+        "benefits": [
+          "Reduced energy costs",
+          "Improved safety and reliability",
+          "Increased productivity",
+          "Minimized downtime"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer electrical maintenance contracts for businesses?",
+            "answer": "Yes, we offer customized electrical maintenance contracts to help businesses prevent costly repairs and ensure their electrical systems operate efficiently."
+          },
+          {
+            "question": "Can you help me upgrade my lighting to LED?",
+            "answer": "Absolutely! We specialize in LED lighting upgrades, which can significantly reduce your energy costs and improve the lighting quality in your business."
+          },
+          {
+            "question": "What are your emergency service response times for commercial clients?",
+            "answer": "We prioritize emergency service calls for our commercial clients and strive to respond as quickly as possible, typically within a few hours."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your Columbus home has the power it needs with a panel upgrade.",
+        "description": "Is your electrical panel outdated or struggling to keep up with your modern electrical demands? Just Right Electric specializes in electrical panel upgrades for homes throughout Columbus, particularly in older neighborhoods like Clintonville and German Village where original panels may be insufficient. We'll assess your current electrical load and recommend the appropriate panel upgrade to meet your needs, whether you're adding new appliances, installing a home theater, or simply want to ensure your home's electrical system is safe and reliable. We handle all aspects of the upgrade, from obtaining permits to safely removing the old panel and installing the new one. We use only high-quality panels from trusted manufacturers, and our experienced electricians ensure all work meets or exceeds current electrical codes. An upgraded electrical panel can also increase the value of your home and provide peace of mind knowing your electrical system is up to the task. We also offer surge protection options to protect your valuable electronics from power surges.",
+        "process": [
+          "Step 1: Schedule an electrical panel inspection to assess your needs.",
+          "Step 2: Receive a detailed quote for the panel upgrade.",
+          "Step 3: We obtain the necessary permits and schedule the installation.",
+          "Step 4: Our licensed electricians safely and efficiently upgrade your electrical panel."
+        ],
+        "benefits": [
+          "Increased electrical capacity",
+          "Improved safety",
+          "Reduced risk of electrical fires",
+          "Enhanced home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequently tripped breakers, flickering lights, and the inability to add new electrical appliances. If you experience any of these, contact us for an inspection."
+          },
+          {
+            "question": "How long does an electrical panel upgrade typically take?",
+            "answer": "An electrical panel upgrade typically takes 4-8 hours, depending on the complexity of the job."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, a permit is required for an electrical panel upgrade in Columbus. We handle all permit applications for you."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Illuminate your Columbus home or business with expert lighting solutions.",
+        "description": "Just Right Electric offers comprehensive lighting installation services for homes and businesses throughout Columbus. Whether you're looking to upgrade your existing lighting, install new fixtures, or create a custom lighting design, our experienced electricians can help. We specialize in energy-efficient LED lighting solutions, which can significantly reduce your energy costs and improve the lighting quality in your space. We install recessed lighting, track lighting, pendant lighting, chandeliers, outdoor lighting, and more. We also offer lighting control systems that allow you to easily adjust the lighting levels to create the perfect ambiance. From helping you select the right fixtures to ensuring proper installation and wiring, we'll handle every aspect of your lighting project. We understand the importance of proper lighting for both aesthetics and functionality, and we're dedicated to providing high-quality lighting solutions that meet your specific needs. We also stay up to date on the latest lighting trends and technologies.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your lighting needs and preferences.",
+          "Step 2: We provide a customized lighting design and a detailed quote.",
+          "Step 3: Our licensed electricians install your new lighting fixtures with precision and care.",
+          "Step 4: We test the lighting system to ensure it's working properly and to your satisfaction."
+        ],
+        "benefits": [
+          "Improved aesthetics",
+          "Increased energy efficiency",
+          "Enhanced functionality",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, lasts longer, and produces less heat than traditional lighting. It can also save you money on your energy bills."
+          },
+          {
+            "question": "Can you help me choose the right lighting fixtures for my home?",
+            "answer": "Yes, we can provide expert advice on selecting the right lighting fixtures to match your style and needs."
+          },
+          {
+            "question": "Do you offer outdoor lighting installation?",
+            "answer": "Yes, we offer a wide range of outdoor lighting solutions, including landscape lighting, security lighting, and patio lighting."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-repairs",
+        "name": "Electrical Repairs",
+        "shortDescription": "Fast and reliable electrical repairs in Columbus, OH.",
+        "description": "Just Right Electric provides prompt and reliable electrical repair services throughout Columbus. From troubleshooting faulty wiring to fixing broken outlets and switches, our experienced electricians can handle any electrical repair, large or small. We understand the inconvenience and potential dangers of electrical problems, so we offer 24/7 emergency service to address urgent issues. We arrive on time, diagnose the problem quickly, and provide a transparent quote before starting any work. We use only high-quality parts and materials, and our workmanship is guaranteed. Whether you're dealing with a power outage, a tripped breaker, or a sparking outlet, you can count on Just Right Electric to provide safe and effective electrical repairs. We also specialize in diagnosing and repairing issues related to older wiring systems found in many Columbus homes, such as knob and tube wiring. We prioritize safety and ensure all repairs meet or exceed current electrical codes.",
+        "process": [
+          "Step 1: Call us to schedule an electrical repair service.",
+          "Step 2: Our licensed electrician will arrive on time and diagnose the problem.",
+          "Step 3: We provide a transparent quote for the repair work.",
+          "Step 4: We complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Safe and reliable repairs",
+          "Fast response times",
+          "Transparent pricing",
+          "Experienced electricians"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if I have a power outage?",
+            "answer": "Check your breaker panel to see if a breaker has tripped. If so, reset the breaker. If the power outage persists, call us for assistance."
+          },
+          {
+            "question": "What are the signs of a faulty outlet?",
+            "answer": "Signs of a faulty outlet include sparks, smoke, a burning smell, and loose connections. If you notice any of these, stop using the outlet and call us for repair."
+          },
+          {
+            "question": "Do you offer emergency electrical repair services?",
+            "answer": "Yes, we offer 24/7 emergency electrical repair services throughout Columbus."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Protect your Columbus home or business from power outages.",
+        "description": "With Columbus's unpredictable weather, from ice storms to summer thunderstorms, power outages can be a significant inconvenience and even a safety hazard. Just Right Electric offers generator installation services for homes and businesses throughout Columbus, providing you with a reliable backup power source. We'll help you choose the right generator for your needs, whether you're looking for a portable generator for occasional use or a whole-house generator that automatically kicks on during a power outage. We handle all aspects of the installation, including gas line connections, electrical wiring, and testing. Our experienced electricians ensure your generator is properly installed and safely connected to your electrical system. We also provide ongoing maintenance and repair services to keep your generator running smoothly. With a generator from Just Right Electric, you can rest assured that you'll be prepared for any power outage.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your generator needs.",
+          "Step 2: We provide a customized generator recommendation and a detailed quote.",
+          "Step 3: Our licensed electricians install your generator with precision and care.",
+          "Step 4: We test the generator to ensure it's working properly and provide ongoing maintenance support."
+        ],
+        "benefits": [
+          "Protection from power outages",
+          "Peace of mind",
+          "Increased safety",
+          "Preserved comfort and convenience"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of generator you need depends on your electrical load and the appliances you want to power during a power outage. We can help you determine the right size generator for your needs."
+          },
+          {
+            "question": "Do I need a permit for generator installation?",
+            "answer": "Yes, a permit is typically required for generator installation in Columbus. We handle all permit applications for you."
+          },
+          {
+            "question": "How often should I maintain my generator?",
+            "answer": "It's recommended to have your generator serviced annually to ensure it's running properly. We offer generator maintenance services to keep your generator in top condition."
+          }
+        ]
+      },
+      {
+        "slug": "ev-charger-installation",
+        "name": "EV Charger Installation",
+        "shortDescription": "Expert installation of EV chargers for Columbus homeowners.",
+        "description": "As electric vehicles become increasingly popular in Columbus, Just Right Electric is here to help you install a Level 2 EV charger in your home. A Level 2 charger allows you to charge your EV much faster than a standard Level 1 charger, making it more convenient to keep your vehicle charged and ready to go. We'll assess your electrical system and recommend the appropriate charger for your vehicle and electrical capacity. We handle all aspects of the installation, including wiring, circuit breaker upgrades, and testing. Our experienced electricians ensure your EV charger is properly installed and safely connected to your electrical system. We also provide guidance on using and maintaining your EV charger. Whether you live in a historic home in German Village or a modern condo in the Short North, Just Right Electric can help you install an EV charger that meets your needs. We are up-to-date on the latest EV charging technologies and installation best practices.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your EV charger needs.",
+          "Step 2: We assess your electrical system and recommend the appropriate charger.",
+          "Step 3: Our licensed electricians install your EV charger safely and efficiently.",
+          "Step 4: We test the charger to ensure it's working properly and provide instructions on its use."
+        ],
+        "benefits": [
+          "Faster charging times",
+          "Increased convenience",
+          "Enhanced home value",
+          "Environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "What is a Level 2 EV charger?",
+            "answer": "A Level 2 EV charger uses a 240-volt outlet and can charge your EV much faster than a standard 120-volt Level 1 charger."
+          },
+          {
+            "question": "Do I need to upgrade my electrical panel for an EV charger?",
+            "answer": "Depending on your existing electrical load, you may need to upgrade your electrical panel to accommodate an EV charger. We can assess your electrical system and determine if an upgrade is necessary."
+          },
+          {
+            "question": "Are there any rebates or incentives for EV charger installation?",
+            "answer": "Yes, there may be federal, state, or local rebates or incentives available for EV charger installation. We can help you research available incentives."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dublin",
+        "slug": "dublin-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC is proud to offer comprehensive electrical services to the residents and businesses of Dublin, Ohio. Known for its upscale subdivisions built primarily in the 1980s through the 2000s, Dublin presents unique electrical needs for homeowners seeking to maintain and upgrade their properties. From modern lighting installations to whole-house surge protection, we ensure your home's electrical system is safe, efficient, and up-to-date.\n\nOur expertise extends to addressing the challenges posed by Dublin's climate. Cold, snowy winters can lead to freeze-thaw cycles that damage wiring and electrical components. We offer inspections and repairs to mitigate these risks, ensuring your electrical system remains reliable throughout the year. Whether you're in Tartan Fields or Ballantrae, Just Right Electric is your trusted local electrician.\n\nWe handle everything from routine maintenance to emergency repairs. Trust us to keep your home safe and powered.",
+        "localContext": "Dublin is characterized by its affluent neighborhoods and excellent schools, creating a high demand for quality home services and upgrades.",
+        "nearbyAreas": [
+          "Powell",
+          "Worthington",
+          "Hilliard"
+        ]
+      },
+      {
+        "city": "Westerville",
+        "slug": "westerville-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC provides top-notch electrical services to the Westerville community. With its established suburbs dating back to the 1970s and 80s, Westerville homes often require electrical upgrades and repairs to meet modern demands. We specialize in bringing older homes up to code and ensuring they are equipped to handle today's technology.\n\nThe climate in Westerville, with its cold and snowy winters, can be harsh on electrical systems. Freeze-thaw cycles can cause wiring to crack and degrade, leading to potential hazards. Just Right Electric offers comprehensive inspections and preventative maintenance to protect your home from these weather-related issues. We are committed to the safety and reliability of your electrical system.\n\nFrom panel upgrades to lighting installations, Just Right Electric provides reliable, professional electrical services in Westerville.",
+        "localContext": "Westerville is a vibrant city with a mix of residential and commercial areas, known for its historic Uptown district and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Galena",
+          "Worthington",
+          "Lewis Center"
+        ]
+      },
+      {
+        "city": "Hilliard",
+        "slug": "hilliard-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC is dedicated to serving the electrical needs of Hilliard, Ohio. Known for its family-friendly subdivisions developed in the 1980s and 90s, Hilliard homes often require electrical services to accommodate growing families and evolving technology. We offer a wide range of services, from installing new outlets and lighting to upgrading electrical panels to meet increased power demands.\n\nHilliard's climate, characterized by cold, snowy winters, can take a toll on electrical systems. The freeze-thaw cycles can cause damage to wiring and components, leading to potential safety hazards. Just Right Electric provides thorough inspections and repairs to address these issues, ensuring your home's electrical system is safe and reliable year-round. We are your trusted local electrician dedicated to providing quality service.\n\nWe offer fast, reliable service to keep your home powered and safe.",
+        "localContext": "Hilliard is a thriving suburban community with a strong emphasis on family and community, making it a great place to live and work.",
+        "nearbyAreas": [
+          "Dublin",
+          "Plain City",
+          "Columbus"
+        ]
+      },
+      {
+        "city": "Grove City",
+        "slug": "grove-city-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC is proud to offer dependable electrical services to the residents of Grove City, Ohio. With its affordable homes primarily built in the 1970s and 80s, Grove City presents unique electrical challenges related to aging infrastructure and outdated systems. We specialize in bringing these homes up to code, ensuring safety and efficiency for modern living. We offer a full range of electrical services, from routine maintenance to emergency repairs, all performed by licensed and experienced electricians.\n\nThe climate in Grove City, with its cold and snowy winters, can exacerbate existing electrical issues. Freeze-thaw cycles can cause wiring to deteriorate and connections to loosen, creating potential fire hazards. Just Right Electric provides comprehensive inspections and preventative maintenance to minimize these risks. We are committed to ensuring the safety and reliability of your electrical system.\n\nLet us help keep your home safe and powered. We're your local electrical experts.",
+        "localContext": "Grove City is a growing city with a strong sense of community and a focus on affordable living, making it a popular choice for families and young professionals.",
+        "nearbyAreas": [
+          "Columbus",
+          "Orient",
+          "Harrisburg"
+        ]
+      },
+      {
+        "city": "Powell",
+        "slug": "powell-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC provides exceptional electrical services to the Powell, Ohio area. Known for its beautiful homes and affluent community, Powell residents demand the best in electrical services. We specialize in high-end lighting installations, smart home integration, and whole-house surge protection, ensuring your home is both beautiful and safe.\n\nThe climate in Powell, with its cold and snowy winters, can be tough on electrical systems. Freeze-thaw cycles can damage wiring and components, leading to potential hazards. Just Right Electric offers comprehensive inspections and preventative maintenance to protect your home from these weather-related issues. We strive to exceed your expectations with every job.\n\nFrom new construction to renovations, Just Right Electric is your trusted partner for all your electrical needs in Powell.",
+        "localContext": "Powell is an upscale community with a strong emphasis on family values and quality of life, making it a desirable place to live.",
+        "nearbyAreas": [
+          "Dublin",
+          "Lewis Center",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Worthington",
+        "slug": "worthington-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC is proud to serve the residents and businesses of Worthington, Ohio. With its historic charm and mix of older and newer homes, Worthington presents a variety of electrical needs. We specialize in upgrading older electrical systems to meet modern demands while preserving the character of your home. We also offer a full range of services for newer homes, including lighting installations, smart home integration, and electrical panel upgrades.\n\nWorthington's climate, with its cold and snowy winters, can be challenging for electrical systems. Freeze-thaw cycles can cause wiring to deteriorate and connections to loosen, leading to potential safety hazards. Just Right Electric provides comprehensive inspections and preventative maintenance to address these issues and ensure your home's electrical system is safe and reliable year-round. We are committed to providing quality service and customer satisfaction.\n\nLet us keep your home safe and powered.",
+        "localContext": "Worthington is a historic city with a vibrant downtown area and a strong sense of community, making it a desirable place to live and work.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Westerville"
+        ]
+      },
+      {
+        "city": "Lewis Center",
+        "slug": "lewis-center-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC is dedicated to providing reliable electrical services to the growing community of Lewis Center, Ohio. With its mix of newer subdivisions and established neighborhoods, Lewis Center presents a diverse range of electrical needs. We specialize in new construction wiring, electrical panel upgrades, and smart home installations, ensuring your home is equipped for the future. We provide quality service and exceptional customer satisfaction.\n\nThe climate in Lewis Center, with its cold and snowy winters, can be tough on electrical systems. Freeze-thaw cycles can damage wiring and components, leading to potential hazards. Just Right Electric offers comprehensive inspections and preventative maintenance to protect your home from these weather-related issues. We are committed to the safety and reliability of your electrical system.\n\nFrom routine maintenance to emergency repairs, Just Right Electric is your trusted partner for all your electrical needs in Lewis Center.",
+        "localContext": "Lewis Center is a rapidly growing suburban community with excellent schools and a family-friendly atmosphere, making it a popular choice for new homeowners.",
+        "nearbyAreas": [
+          "Westerville",
+          "Powell",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Delaware",
+        "slug": "delaware-oh",
+        "state": "OH",
+        "content": "Just Right Electric LLC is proud to offer comprehensive electrical services to the residents and businesses of Delaware, Ohio. As a growing city with a mix of historic homes and new developments, Delaware presents a unique set of electrical needs. We specialize in bringing older homes up to code, installing energy-efficient lighting, and providing reliable electrical services for new construction projects. We handle everything from minor repairs to major installations.\n\nThe climate in Delaware, with its cold and snowy winters, can be demanding on electrical systems. Freeze-thaw cycles can cause wiring to deteriorate and connections to loosen, leading to potential safety hazards. Just Right Electric provides thorough inspections and preventative maintenance to minimize these risks. We are committed to ensuring the safety and reliability of your electrical system.\n\nWe provide fast, reliable service to keep your home powered and safe.",
+        "localContext": "Delaware is a vibrant city with a rich history and a growing economy, making it a great place to live, work, and raise a family.",
+        "nearbyAreas": [
+          "Powell",
+          "Lewis Center",
+          "Sunbury"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Just Right Electric upgraded our electrical panel in our older home in Clintonville. They were professional, efficient, and explained everything clearly. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We had Just Right Electric install new recessed lighting in our kitchen. The electricians were skilled and courteous. There was a small delay due to a parts shortage, but they communicated well and finished the job to our satisfaction.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Emergency Electrical Repair",
+        "text": "Our power went out in the middle of the night during a bad thunderstorm. Just Right Electric responded quickly and fixed the problem within an hour. I was so grateful for their prompt and reliable service!",
+        "date": "2024-07-08"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "EV Charger Installation",
+        "text": "Just Right Electric installed a Level 2 charger in my garage. The installation was smooth and professional. They walked me through how to use it and answered all my questions. Great service!",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Commercial Electrical Services",
+        "text": "Just Right Electric has been handling the electrical maintenance for our small business for the past year. They are responsive, reliable, and always do a great job. I appreciate their attention to detail and commitment to safety.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Brian T.",
+        "rating": 5,
+        "service": "Generator Installation",
+        "text": "We had Just Right Electric install a whole-house generator. They were very thorough in explaining the process and answering all our questions. The installation was completed on time and within budget. Highly recommended!",
+        "date": "2024-05-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Just Right Electric: Columbus Electrician",
+        "description": "Reliable electrical services in Columbus, OH. Expert electricians for homes & businesses. Panel upgrades, lighting, repairs, EV chargers. Free quotes!"
+      },
+      "about": {
+        "title": "About Just Right Electric | Columbus, OH",
+        "description": "Learn about Just Right Electric, a trusted Columbus electrician. Experienced, licensed, and committed to quality electrical services."
+      },
+      "services": {
+        "title": "Electrical Services | Just Right Electric",
+        "description": "Comprehensive electrical services in Columbus, OH. Panel upgrades, lighting, repairs, EV chargers, generator installation, and more."
+      },
+      "contact": {
+        "title": "Contact Just Right Electric | Columbus, OH",
+        "description": "Contact Just Right Electric for reliable electrical services in Columbus, OH. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Just Right Electric Reviews | Columbus, OH",
+        "description": "Read reviews for Just Right Electric in Columbus, OH. See what our satisfied customers have to say about our electrical services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Just Right Electric",
+        "description": "Just Right Electric provides expert electrical services in Columbus and surrounding areas. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-electrical-services": "/images/service-residential-electrical-services.webp",
+      "commercial-electrical-services": "/images/service-commercial-electrical-services.webp",
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "electrical-repairs": "/images/service-electrical-repairs.webp",
+      "generator-installation": "/images/service-generator-installation.webp",
+      "ev-charger-installation": "/images/service-ev-charger-installation.webp"
+    },
+    "servicesResponsive": {
+      "residential-electrical-services": {
+        "src": "/images/service-residential-electrical-services.webp",
+        "srcset": "/images/service-residential-electrical-services-400w.webp 400w, /images/service-residential-electrical-services-800w.webp 800w, /images/service-residential-electrical-services-1200w.webp 1200w, /images/service-residential-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical-services": {
+        "src": "/images/service-commercial-electrical-services.webp",
+        "srcset": "/images/service-commercial-electrical-services-400w.webp 400w, /images/service-commercial-electrical-services-800w.webp 800w, /images/service-commercial-electrical-services-1200w.webp 1200w, /images/service-commercial-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-repairs": {
+        "src": "/images/service-electrical-repairs.webp",
+        "srcset": "/images/service-electrical-repairs-400w.webp 400w, /images/service-electrical-repairs-800w.webp 800w, /images/service-electrical-repairs-1200w.webp 1200w, /images/service-electrical-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ev-charger-installation": {
+        "src": "/images/service-ev-charger-installation.webp",
+        "srcset": "/images/service-ev-charger-installation-400w.webp 400w, /images/service-ev-charger-installation-800w.webp 800w, /images/service-ev-charger-installation-1200w.webp 1200w, /images/service-ev-charger-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
